@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Arya Sarkar</h1>
 <h3 align="center">A passionate developer & analyst from India</h3>
-<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="Coding" align="right" width="300">
+<img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="Coding" align="right" width="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasarkar008&label=Profile%20views&color=0e75b6&style=flat" alt="aryasarkar008" /> </p>
 
