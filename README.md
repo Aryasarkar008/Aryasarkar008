@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aryasarkar008@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/14jYvFPk4scPpMUSoeJK9tuWHUNe049GM/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1cmQorWTEEwDSj-9h-Wpd1NgatEqJlqbO/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
